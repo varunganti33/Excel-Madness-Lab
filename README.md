@@ -1,2 +1,2 @@
-# 1.02-statistics-distributions-lab
-Week 1, Lab 2: Distributions Lab
+# loot-boxes-lab
+Week 1, Lab 2: "Fun with Loot Boxes" Lab
